@@ -4,7 +4,8 @@ description: Microfiction story about a slim lad.
 date: 2024-02-12
 tags:
   - fiction
-rss: true
+draft: true
+rss: false
 ---
 
 Matthew was a slim lad. He ate and ate but never put on weight.
